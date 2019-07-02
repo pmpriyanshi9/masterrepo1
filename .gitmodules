@@ -1,0 +1,3 @@
+[submodule "subrepo1"]
+	path = subrepo1
+	url = https://github.com/pmpriyanshi9/subrepo1.git
